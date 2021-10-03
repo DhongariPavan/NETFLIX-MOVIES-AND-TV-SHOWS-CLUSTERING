@@ -1,8 +1,7 @@
-Netflix Logo
+![image](https://user-images.githubusercontent.com/85613490/135740247-3d7a9c1d-c7af-42d0-acd1-5aaaedfbe01a.png)
 
 Netflix Movies and TV Shows Clustering
-AlmaBetter Verfied Project - AlmaBetter School
-Animated gif
+AlmaBetter Verfied Project - AlmaBetter School 
 
 I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
 
@@ -41,11 +40,9 @@ The given IPython Notebook can be either downloaded to be run on your local Jupy
 -----------------------------------------------------
 
 📜 Credits
-Pavan Dhongari|Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+Dhongari Pavan | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 Contact me for Data Science Project Collaborations
-
-
 
 -----------------------------------------------------
 
@@ -57,4 +54,5 @@ Available: https://realpython.com/k-means-clustering-python/
 towardsdatascience.com, 'Content strategy of Netflix in the recent years'. [Online].
 
 Available: https://towardsdatascience.com/deciphering-netflixs-content-strategy-through-nlp-b59cd2e84873
+
 
